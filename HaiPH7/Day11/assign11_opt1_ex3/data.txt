@@ -1,0 +1,19 @@
+Nguyen Van Tuan; 20150001; 8.92
+Nguyen Cong Hoan; 20150002; 8.56
+Nguyen Thi Quynh; 20150003; 9.35
+Tran Trung Kien; 20150004; 9.23
+Do Van Thoa; 20150005; 7.54
+
+Tong Gia Vy; 20150006; 6.63
+Le Thi Hong Nguyet; 20150007; 8.43
+Nguyen Thi Lan Anh; 20150008; 9.35
+Pham Hoang Hiep; 20150009; 8.25
+Nguyen Van Khanh; 20015010; 7.89
+
+Tran Xuan Duc; 20150011; 6.92
+Nguyen Thi Hoa; 20150012; 9.35
+Nguyen Thi Thuy; 20150013; 8.25
+Duong Cong Tranh; 20150014; 7.63
+Tran Quoc Toan; 20150015; 6.65
+
+Nguyen Van Toan; 20150016; 7.78

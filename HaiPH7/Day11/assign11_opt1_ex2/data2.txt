@@ -1,0 +1,13 @@
+Tran Xuan Duc; 20150011; 6.92
+Nguyen Thi Hoa; 20150012; 9.35
+Nguyen Thi Thuy; 20150013; 8.25
+Duong Cong Tranh; 20150014; 7.63
+Tran Quoc Toan; 20150015; 6.65
+
+Nguyen Van Toan; 20150016; 7.78
+Nguyen Van AAAA; 20150017; 6.56
+Nguyen Van BBBB; 20150018; 7.45
+Nguyen Van CCCC; 20150019; 8.85
+Nguyen Van DDDD; 20150020; 9.25
+
+Nguyen Van DDDD; 20150021; 7.67

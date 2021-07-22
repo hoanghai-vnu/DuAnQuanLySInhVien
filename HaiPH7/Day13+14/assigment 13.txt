@@ -1,0 +1,34 @@
+
+Deadline: 06h sáng 3/6/2021
+
+SinhVien
+    masinhvien: 1234 (xxxx)
+    tensinhvien: Hoang Trung Kien, Cong tang ton nu (string)
+
+- Nhap sinh vien:
+    + ma so sinh vien
+    + ten day du
+
+- nếu trùng mã số sinh viên => không thêm mới
+- thêm mới vào danh sách
+
+
+- tìm kiếm theo mã số sinh viên
+- tim kiem sinh ien theo ten day du (full name: 'Hoang Trung Kien') -> tim tat ca nhung
+sinh vien co ten nhu the?
+- tim kiem theo ten chinh (vi du: 'kien') -> tat ca nhung thang ten Kien  (khong phai contain
+trong full name)
+
+- In danh sách
+Duyệt và in danh sách sinh viên ra console
+
+- Nhập mã số sinh viên để xóa sinh viên khỏi danh sách
+
+- sắp xếp:
+
++ sắp xếp theo mã số sinh viên (1 chiều)
++ sắp xếp theo full name -> A Phu -> Hoang Trung Kien -> console (1 chiều alpha-beta)
++ sắp xếp theo Tên -> Hoang Trung Kien -> A Phủ  -> console
+
+Hoang Trung Kien
+A Phu
